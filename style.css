@@ -16,9 +16,9 @@
 }
 
 button.normal{
-    font-size: .9rem;
+    font-size: .8rem;
     font-weight: 600;
-    padding: .7rem 1.4rem;
+    padding: .6rem 1.2rem;
     color: #E7E5F0;
     background: #AB802C;
     border-radius: 4px;
@@ -29,9 +29,9 @@ button.normal{
 }
 
 button.white{
-    font-size: .9rem;
+    font-size: .8rem;
     font-weight: 600;
-    padding: .6rem 1rem;
+    padding: .6rem 1.2rem;
     color: #E7E5F0;
     background: transparent;
     cursor: pointer;
@@ -69,7 +69,7 @@ button.white{
 }
 #nav-bar li a{
     text-decoration: none;
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 600;
     color: #6b1c9b;
     transition: 0.3s ease;
@@ -114,23 +114,23 @@ button.white{
     justify-content: center;
 }
 #hero h4{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 700;
     color: #6b1c9b;
 }
 #hero h2{
-    font-size: 3.8rem;
+    font-size: 3.5rem;
     font-weight: 700;
     color: #6b1c9b;
 }
 #hero h1{
-    font-size: 3.8rem;
+    font-size: 3.5rem;
     font-weight: 700;
     color: #AB802C;
     /* color: #6b1c9b; */
 }
 #hero p{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: #b471df;
     /* color: #6b1c9b; */
     margin-bottom: 1.5rem;
@@ -140,12 +140,12 @@ button.white{
     color: #ffffff;
     outline: none;
     border: none;
-    padding: .9rem 1.7rem;
+    padding: .6rem 1.2rem;
     font-family: 'League Spartan', sans-serif;
     border-radius: 8px; 
     cursor: pointer;
     transition: 250ms ease;
-    font-size: 1rem;
+    font-size: .8rem;
     font-weight: 500;
 }
 #hero button:hover{
@@ -177,7 +177,7 @@ button.white{
 }
 #feature .fe-box p{
     display: inline-block;
-    font-size: 1rem;
+    font-size: .8rem;
     font-weight: 700;
     color:#6b1c9b;
     padding: .6rem .5rem .4rem .5rem;
@@ -205,12 +205,12 @@ button.white{
     text-align: center;
 }
 #product1 h2{
-    font-size: 3rem;
+    font-size: 2.8rem;
     font-weight: 700;
     color: #6b1c9b;
 }
 #product1 p{
-    font-size: 1rem;
+    font-size: .8rem;
     color: #b471df;
     margin-top: .4rem;
     /* color: #6b1c9b; */
@@ -247,7 +247,7 @@ button.white{
 #product1 .pro .des h5{
     padding-top: .4rem;
     color: #6b1c9b;
-    font-size: 1rem;
+    font-size: .8rem;
     font-weight: 700;
 }
 #product1 .pro .des i{
@@ -256,7 +256,7 @@ button.white{
 }
 #product1 .pro .des h4{
     padding-top: .4rem;
-    font-size: 1rem;
+    font-size: .8rem;
     font-weight: 600;
     color: #6b1c9b;
 }
@@ -353,7 +353,7 @@ button.white{
     padding: .6rem 0;
 }
 #sm-banner span{
-    font-size: 1rem;
+    font-size: .8rem;
     color: #E7E5F0;
     font-weight: 500;
     padding-bottom: .9rem;
@@ -396,7 +396,7 @@ button.white{
 #banner3 h3{
     color: #6b1c9b;
     font-weight: 800;
-    font-size: 1rem;
+    font-size: .8rem;
 }
 
 #newsletter{
@@ -414,7 +414,7 @@ button.white{
     padding-bottom: .5rem;
 }
 #newsletter p{
-    font-size: 1rem;
+    font-size: .8rem;
     color: #b471df;
     font-weight: 600;
 }
@@ -424,7 +424,7 @@ button.white{
 #newsletter input{
     height: 2.3rem;
     padding: 0 1.25rem;
-    font-size: 1rem;
+    font-size: .8rem;
     width: 100%;
     border: 1px solid transparent;
     border-radius: 4px;
@@ -465,19 +465,19 @@ footer .logo{
     margin-bottom: 1.8rem;
 }
 footer h4{
-    font-size: 1rem;
+    font-size: .9rem;
     padding-bottom: 1rem;
     font-weight: 800;
     color: #6b1c9b;
 }
 footer p{
-    font-size: .9rem;
+    font-size: .8rem;
     margin: 0 0 .6rem 0;
     font-weight: 400;
     color: #b471df;
 }
 footer a{
-    font-size: .9rem;
+    font-size: .8rem;
     text-decoration: none;
     margin-bottom: .6rem;
     color: #b471df;
@@ -503,7 +503,7 @@ footer a:hover{
 }
 
 .copyright{
-    font-size: 1rem;
+    font-size: .9rem;
     font-weight: 600;
     color: #6b1c9b;
     text-align: center;
@@ -597,7 +597,7 @@ footer a:hover{
     color: #6b1c9b;
 }
 #prodetails .single-pro-details h2{
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     color: #6b1c9b;
     padding-bottom: .5rem;
 }
@@ -623,7 +623,7 @@ footer a:hover{
 }
 #prodetails .single-pro-details span{
     line-height: 35px;
-    font-size: 1rem;
+    font-size: .9rem;
     color: #b471df;
 }
 
@@ -673,7 +673,7 @@ footer a:hover{
     color: #6b1c9b;
 }
 #blog .blog-details p{
-    font-size: 1rem;
+    font-size: .9rem;
     color: #6b1c9b;
     line-height: 25px;
     padding: 1rem 0;
@@ -785,10 +785,10 @@ footer a:hover{
     color: #6b1c9b;
 }
 #contact-details .details h2{
-    font-size: 2.6rem;
+    font-size: 2.2rem;
     font-weight: 700;
     color: #6b1c9b;
-    line-height: 25px;
+    line-height: 20px;
     padding: 1.2rem 0;
 }
 #contact-details .details h3{
@@ -810,7 +810,7 @@ footer a:hover{
 }
 #contact-details .details li p{
     margin: 0;
-    font-size: 1rem
+    font-size: .8rem
 }
 
 #contact-details .map{
@@ -841,10 +841,10 @@ footer a:hover{
     color: #6b1c9b;
 }
 #form-details form h2{
-    font-size: 2.6rem;
+    font-size: 2.2rem;
     font-weight: 700;
     color: #6b1c9b;
-    line-height: 25px;
+    line-height: 20px;
     padding: 1.2rem 0;
 }
 #form-details form input,
@@ -854,7 +854,7 @@ footer a:hover{
     outline: none;
     margin-bottom: 1.1rem;
     border: 1px solid #E7E5F0;
-    font-size: 1rem;
+    font-size: .8rem;
 }
 #form-details form button:hover{
     background: #6b1c9b;
@@ -873,13 +873,13 @@ footer a:hover{
 }
 #form-details .people div p{
     margin: 0;
-    font-size: .9rem;
+    font-size: .8rem;
     line-height: 25px;
     color: #b471df;
 }
 #form-details .people div p span{
     display: block;
-    font-size: 1rem;
+    font-size: .8rem;
     font-weight: 600;
     color: #6b1c9b;
 }
