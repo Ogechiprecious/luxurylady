@@ -927,7 +927,7 @@ footer a:hover{
     border-right: none;
 }
 #cart table thead td{
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 600;
     text-transform: uppercase;
     padding: 1rem 0;
@@ -937,7 +937,7 @@ footer a:hover{
     padding-top: .8rem;
 }
 #cart table tbody td{
-    font-size: 1rem;
+    font-size: .8rem;
     color: #b471df;
 }
 #cart table tbody td i{
@@ -966,7 +966,7 @@ footer a:hover{
     margin-right: .5rem;
     border: 1px solid #E7E5F0;
     border-radius: 4px;
-    font-size: 1rem;
+    font-size: .8rem;
 }
 #coupon button:hover{
     background: #6b1c9b;
@@ -993,11 +993,11 @@ footer a:hover{
     width: 50%;
     border: 1px solid #E7E5F0;
     padding: .7rem;
-    font-size: 1rem;
+    font-size: .8rem;
     color: #b471df;
 }
 #subtotal table td strong{
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     font-weight: 700;
 }
 #subtotal button:hover{
